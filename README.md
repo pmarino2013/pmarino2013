@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, Hola! soy Pablo
+#### Soy Desarrollador web y Mentor Fullstack
+![Soy Desarrollador web y Mentor Fullstack](https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg)
 
-<!--
-**pmarino2013/pmarino2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado de la informática y la programación web. Me gusta aprender cosas nuevas de tecnología y experimentar con ellas.
 
-Here are some ideas to get you started:
+Habilidades: HTML/CSS/Javascript/React/Nodejs/MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en **RollingCode School** 
+- 🌱 Estoy aprendiendo **Angular** y **React** 
+- 📫 Cómo contactarme: pmarino2013@gmail.com 
+- ⚡ Dato curioso: Fundé la comunidad de Facebook **Developers Tucumanos** 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pmarino2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pablo-daniel-marino-259baba8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/pablomarino2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/pablomarino8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCyM-u7zHJDcUt4sE3wAa-yg)  
+
