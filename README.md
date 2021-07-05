@@ -9,7 +9,7 @@
  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
 
-![](https://img.shields.io/badge/Job-RollingCodeSchool-blue) ![](https://img.shields.io/badge/Learn-Angular-red) ![](https://img.shields.io/badge/Contact-pmarino2013@gmail.com-orange)
+![](https://img.shields.io/badge/Job-RollingCodeSchool-blue) ![](https://img.shields.io/badge/Learning-Angular-red) ![](https://img.shields.io/badge/Contact-pmarino2013@gmail.com-orange)
 
 ⚡ Dato curioso: Fundé la comunidad de Facebook **Developers Tucumanos** 
 
