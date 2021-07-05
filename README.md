@@ -7,7 +7,7 @@ Soy un apasionado de la informática y la programación web. Me gusta aprender c
 Habilidades: HTML/CSS/Javascript/React/Nodejs/MongoDB
 
 - 🔭 Estoy trabajando en **RollingCode School** 
-- 🌱 Estoy aprendiendo **Angular** y **React** 
+- 🌱 Estoy aprendiendo **continuamente** 
 - 📫 Cómo contactarme: pmarino2013@gmail.com 
 - ⚡ Dato curioso: Fundé la comunidad de Facebook **Developers Tucumanos** 
 
