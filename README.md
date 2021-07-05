@@ -1,4 +1,4 @@
-### Hola 👋, Hola! soy Pablo
+### Hola 👋, soy Pablo
 #### Soy Desarrollador web y Mentor Fullstack
 ![Soy Desarrollador web y Mentor Fullstack](https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg)
 
