@@ -16,8 +16,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pmarino2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pablo-daniel-marino-259baba8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pablomarino2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pablomarino8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCyM-u7zHJDcUt4sE3wAa-yg)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarino2013)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pmarino2013)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarino2013)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pmarino2013)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pmarino2013)](https://github.com/ryo-ma/github-profile-trophy)
