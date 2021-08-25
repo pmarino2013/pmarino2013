@@ -1,6 +1,6 @@
 ### Hola 👋, soy Pablo
 #### Desarrollador web y Mentor Fullstack
-![Soy Desarrollador web y Mentor Fullstack](https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg)
+![Soy Desarrollador web y Mentor Fullstack](https://res.cloudinary.com/practicaldev/image/fetch/s--tSq3pK63--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg)
 
 ![Profile views](https://gpvc.arturio.dev/pmarino2013) ![](https://img.shields.io/twitter/follow/pablomarino8?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCyM-u7zHJDcUt4sE3wAa-yg?style=social)
 
