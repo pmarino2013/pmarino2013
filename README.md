@@ -1,5 +1,5 @@
 ### Hola 👋, soy Pablo Marino
-#### Desarrollador web, Autodidacta y Mentor Fullstack
+#### Desarrollador Fullstack y facilitador de conocimiento
 ![Soy Desarrollador web y Mentor Fullstack](https://www.tokioschool.com/wp-content/uploads/2021/07/LENGUAJES-PROGRAMACION.jpg)
 
 ![](https://img.shields.io/twitter/follow/pablomarino8?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCyM-u7zHJDcUt4sE3wAa-yg?style=social)
