@@ -63,6 +63,11 @@
 <a href='https://youtu.be/oqD0k4Clly8' target='_blank' style='margin-right:4px'>
   <img width='30%' src='http://drive.google.com/uc?export=view&id=1UemR9vnaz1UYi7R1aeQwTThDYvK2rsUQ' alt='custom hooks' />
 </a>
+
+### Mi charla en Nerdearla 2022
+<a href='https://youtu.be/4x87GU45v5k' target='_blank' style='margin-right:4px'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1caUhRVz5aA8GcdZfhy4kGldPxsOQEsBY' alt='crud con javascript' />
+</a>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarino2013)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pmarino2013)  
