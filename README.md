@@ -20,6 +20,27 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pmarino2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pablo-daniel-marino-259baba8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pablomarino2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pablomarino8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCyM-u7zHJDcUt4sE3wAa-yg)  
 
+### Mis últimos videos de Youtube
+<a href='https://youtu.be/HDJL7kW2uVQ' target='_blank'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1tO60oZzWsBouaMqrGxCB7MDxWhiH1oXw' alt='¡useReducer!' />
+</a>
+<a href='https://youtu.be/wkaLjBuTgQ4' target='_blank'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=116P117jM4K1ovha-H7UDUJHdgzsAarGV' alt='¡modulos de javascript!' />
+</a>
+<a href='https://youtu.be/1FDynKclUMk' target='_blank'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1mlohLhXyRy0W2SFsLAbzs0Ttntj6UR5K' alt='¡Tabla paginada con javascript!' />
+</a>
+<a href='https://youtu.be/U5Ppor3Jpcs' target='_blank'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1RBagu9JbDCo8hdRan4MCGXzuhWT_i3v2' alt='Diseño responsive' />
+</a>
+<a href='https://youtu.be/sMiGbOZcdcU' target='_blank'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1H1u4o6xqLCoS9B70f_kHdGlv9nrLkb7J' alt='crud con javascript' />
+</a>
+<a href='https://youtu.be/oqD0k4Clly8' target='_blank'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1UemR9vnaz1UYi7R1aeQwTThDYvK2rsUQ' alt='custom hooks' />
+</a>
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarino2013)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pmarino2013)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pmarino2013)](https://github.com/ryo-ma/github-profile-trophy)
