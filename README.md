@@ -64,9 +64,12 @@
   <img width='30%' src='http://drive.google.com/uc?export=view&id=1UemR9vnaz1UYi7R1aeQwTThDYvK2rsUQ' alt='custom hooks' />
 </a>
 
-### Mi charla en Nerdearla 2022
+### Mis charlas en Nerdearla
 <a href='https://youtu.be/4x87GU45v5k' target='_blank' style='margin-right:4px'>
-  <img width='30%' src='http://drive.google.com/uc?export=view&id=1caUhRVz5aA8GcdZfhy4kGldPxsOQEsBY' alt='crud con javascript' />
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1caUhRVz5aA8GcdZfhy4kGldPxsOQEsBY' alt='Ser un Hacker' />
+</a>
+<a href='https://youtu.be/VGC9fFP-1T0' target='_blank' style='margin-right:4px'>
+  <img width='30%' src='http://drive.google.com/uc?export=view&id=1wHBwqaDospwBXvsXkIelvixkBKrJDa1J' alt='Mobile First' />
 </a>
 <hr>
 
