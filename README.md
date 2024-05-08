@@ -14,17 +14,18 @@
  
 </p>
 <p align="center">
- <a href='https://github.com/pmarino2013' target='_blank'>
+
+ <a href='https://github.com/pmarino2013' target='_blank' style='text-decoration:none' >
   <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30' alt='github' />
 </a>
- <a href='https://www.linkedin.com/in/pablo-daniel-marino-259baba8//' target='_blank'>
+ <a href='https://www.linkedin.com/in/pablo-daniel-marino-259baba8//' target='_blank' style='text-decoration:none'">
   <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='30' alt='linkedin' />
 </a>
   <a href='https://www.facebook.com/pablomarino2013' target='_blank'>
-  <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30' alt='facebook' />
+  <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='30' alt='facebook' style='text-decoration:none'/>
 </a>
  <a href='https://twitter.com/pablomarino8' target='_blank'>
-  <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='30' alt='twitter' />
+  <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='30' alt='twitter' style='text-decoration:none' />
 </a>
   <a href='https://www.youtube.com/channel/UCyM-u7zHJDcUt4sE3wAa-yg' target='_blank'>
   <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height='30' alt='youtube' />
@@ -37,8 +38,8 @@
  
  ### Herramientas
  ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
- ### Sistemas operativos
- <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+ ### Sistema operativo actual
+<img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> 
 
 ![](https://img.shields.io/badge/Job-RollingCodeSchool-blue) ![](https://img.shields.io/badge/Learning-NextJS-blue) ![](https://img.shields.io/badge/Contact-pmarino2013@gmail.com-orange)
 
@@ -65,13 +66,13 @@
   <img width='30%' src='http://drive.google.com/uc?export=view&id=1UemR9vnaz1UYi7R1aeQwTThDYvK2rsUQ' alt='custom hooks' />
 </a>
 
-<!--### Mis charlas en Nerdearla
+## Mis charlas en Nerdearla
 <a href='https://youtu.be/4x87GU45v5k' target='_blank' style='margin-right:4px'>
   <img width='30%' src='http://drive.google.com/uc?export=view&id=1caUhRVz5aA8GcdZfhy4kGldPxsOQEsBY' alt='Ser un Hacker' />
 </a>
 <a href='https://youtu.be/VGC9fFP-1T0' target='_blank' style='margin-right:4px'>
   <img width='30%' src='http://drive.google.com/uc?export=view&id=1wHBwqaDospwBXvsXkIelvixkBKrJDa1J' alt='Mobile First' />
-</a>-->
+</a>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarino2013)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pmarino2013)  
